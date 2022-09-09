@@ -9,7 +9,7 @@ Initial Security()
 {
  Master feature
 }
-
-
-
+Security1()
+{
+}
 }
